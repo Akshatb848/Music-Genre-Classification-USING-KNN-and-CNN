@@ -1,0 +1,13 @@
+# Versions pinned to those reported in the executed notebooks (Kaggle, Python 3.11),
+# except pandas and jupyter, whose versions were not printed.
+numpy==2.0.2
+scipy==1.14.1
+pandas>=2.0
+scikit-learn==1.6.1
+librosa==0.11.0
+matplotlib==3.10.0
+pillow==11.1.0
+tqdm==4.67.1
+tensorflow-cpu==2.18.0
+kagglehub==0.3.11
+jupyter>=1.0
